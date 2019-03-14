@@ -42,6 +42,7 @@ https://projecteuler.net/about
 # A lot of Simple to Complex Programms, listed below here:
 https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 
+# Standard
 Reverse a String – Enter a string and the program will reverse it and print it out.
 
 Pig Latin – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
@@ -76,10 +77,11 @@ CD Key Generator – Generates a unique key for your applications to use based o
 
 Regex Query Tool – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 
-More in the book...
 
 
-Networking
+
+
+# Networking
 
 FTP Program – A file transfer program which can transfer files back and forth from a remote web sever.
 
@@ -111,10 +113,10 @@ Small Web Server – A simple web server that can serve HTML files that contain 
 
 Web Bot – An automated program which carries out tasks on the web including checking websites, page scraping, and summarization of data or web posting.
 
-More in the book...
 
 
-Classes
+
+# Classes
 
 Product Inventory Project – Create an application which manages an inventory of products. Create a product class which has a price, id, and quantity on hand. Then create an inventory class which keeps track of various products and can sum up the inventory value.
 
@@ -128,10 +130,11 @@ Bank Account Manager - Create a class called “Account” which will be an abst
 
 Library Catalog – Create a book class with a title, page count, ISBN and whether or not it is checked out or not. Manage a collection of various books and allow the user to check out books or return books. For added complexity generate a report of those books overdue and any fees. Also allow users to put books on reserve.
 
-More in the book...
 
 
-Threading
+
+
+# Threading
 
 Create A Progress Bar for Downloads – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
 
@@ -141,10 +144,9 @@ Chat Application (remoting style) – Create a chat application which allows you
 
 Bulk Thumbnail Creator – Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
 
-More in the book...
 
 
-Web
+# Web
 
 WYSIWG (What you see is what you get) Editor – Create an editor online which allows people to move around elements, create tables, write text, set colors etc for web pages without having to know HTML. Think Dreamweaver or FrontPage but for online sites. If you need an example check out the DIC page used to create a post.
 
@@ -178,10 +180,10 @@ Template Maker – Make a site or application which allows the user to enter in 
 
 CAPTCHA Maker – Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms. If you use PHP, take a look at the image functions of GD.
 
-More in the book...
 
 
-Files
+
+# Files
 
 Quiz Maker – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes.
 
@@ -215,10 +217,11 @@ Code Snippet Manager – Another utility program that allows coders to put in fu
 
 Versioning Manager – Create your own versioning system for code files. Users are forced to check out items and lock items during reading and writing so that a group of programmers are not accidentally overwriting code files on one another.
 
-More in the book...
 
 
-Databases
+
+
+# Databases
 
 SQL Query Analyzer – A utility application which a user can enter a query and have it run against a local database and look for ways to make it more efficient.
 
@@ -246,10 +249,10 @@ Database Translation (MySQL <-> SQL Server) – A simple utility that reads in f
 
 Web Board (Forum) – Create a forum for you and your buddies to post, administer and share thoughts and ideas.
 
-More in the book...
 
 
-Graphics and Multimedia
+
+# Graphics and Multimedia
 
 Slide Show – Make an application that shows various pictures in a slide show format. For extra complexity try adding various effects like fade in/out, star wipe and window blinds transitions.
 
@@ -285,10 +288,10 @@ Watermarking Application – Have some pictures you want copyright protected? Ad
 
 Turtle Graphics – This is a common project where you create a floor of 20 x 20 squares. Using various commands you tell a turtle to draw a line on the floor. You have move forward, left or right, lift or drop pen etc. For added complexity, allow the program to read in the list of commands from a file. Do a search online for “Turtle Graphics” for more information.
 
-More in the book...
 
 
-Games
+
+# Games
 
 Battleship – Create two game boards and let each player place a number of war ships. Each player can’t see the other person’s board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents’ ships have been sunk.
 
