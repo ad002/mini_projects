@@ -1,4 +1,5 @@
-# mini_projects_for_the_python_beginner
+# mini_projects
+
 As I'm starting getting to know Python a bit better I'll be solving some mini tasks. Inspiration taken from this page: https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
 
 [DONE] #1 Dice Rolling Simulator
@@ -7,22 +8,22 @@ As I'm starting getting to know Python a bit better I'll be solving some mini ta
        #4 Text Based Adventure Game
 [WIP]  #5 Hangman
 
-Here is a link collection with idea ressources, some of them are below 
+Here is a link collection with more idea ressources, some of them are already listed below 
 https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/
 
-CODECLUB
+# CODECLUB
 https://codeclubprojects.org/en-GB/python/
 
-Apps, a Chess Game, a Web Crawler, my Own App etc. with tuturial videos
+# Apps, a Chess Game, a Web Crawler, my Own App etc. with tuturial videos
 https://www.makeuseof.com/tag/beginner-programming-projects/
 
-WEB SCRAPING WITH PYTHON 
+# WEB SCRAPING WITH PYTHON 
 https://www.youtube.com/watch?v=XQgXKtPSzUI
 
-BUILD A BASIC HTML5 WEBSITE
+# BUILD A BASIC HTML5 WEBSITE
 https://www.youtube.com/watch?time_continue=3642&v=Wm6CUkswsNw
 
-More projects: 
+# More projects: 
 https://www.daniweb.com/programming/software-development/threads/131973/5-crucial-projects-for-beginners#
 1. Guess the number [DONE]
 2. Sentence generator [DONE] (MadLips)
@@ -30,15 +31,15 @@ https://www.daniweb.com/programming/software-development/threads/131973/5-crucia
 4. Address book
 5. Text Game
 
-500+ programing tasks:
+# 500+ programing tasks:
 https://rosettacode.org/wiki/Category:Programming_Tasks
 
 
-Project Euler, more Math oriented tasks: 
+# Project Euler, more Math oriented tasks: 
 https://projecteuler.net/about
 
 
-A lot of Simple to Complex Programms, listed below here:
+# A lot of Simple to Complex Programms, listed below here:
 https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
 
 Reverse a String – Enter a string and the program will reverse it and print it out.
