@@ -4,7 +4,7 @@ As I'm starting getting to know Python a bit better I'll be solving some mini ta
 
 [DONE] #1 Dice Rolling Simulator
 [DONE] #2 Guess the Number
-[WIP]  #3 Mad Lips Generator -> What?! 
+[DONE]  #3 Mad Lips Generator -> What?! 
        #4 Text Based Adventure Game
 [WIP]  #5 Hangman
 
