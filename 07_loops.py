@@ -121,6 +121,8 @@ print(my_string[2:len(my_string)]) #ython
 for i in range(len(my_string)):
     print(my_string[:i]) #p py pyt pyth pytho 
     #returns from the beginning to pos i 
+    #returns from zeroth element to ith while i is ascending 
+    #from one to two and so on
     
 #We need an integer i (countable) here, so as long we haven't reached 
 #the end of the string(len) with our i...
@@ -128,6 +130,8 @@ for i in range(len(my_string)):
     #prints only the ith element of the string until the last one 
     print(my_string[i:])#out: python pytho pyth pyt py p
     #returns from position i to the end of the file 
+    
+    
 
 #In my head both of them should be swapped as it does make more sense 
 #to me that if you print only until the ith element [:i] this should be 
