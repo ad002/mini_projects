@@ -61,45 +61,32 @@ def sol3(x):
     
 def sol4(x):
     #This is an online solution
-    
-    #Checks the first letter of the Input / checks one single letter if 
-    #a vwoel or not 
-    def isVowel(ch):
-        return ch.upper() in ['A', 'E', 'I', 'O', 'U']
-    
-    #print(isVowel(x)) #Just for understanding
     start=time.time()
-    count=0
+    counter=0
     
-    #As long as i haven't reached the final letter of the string /is smaller
-    #than the length of the string
+    #Take something as an input, string
+    def checkVowel(a):
+        #Lowercase just to get sure everything is included
+        return a.lower() in ['a', 'e', 'i', 'o','u']
+    
+    #As long as counting variable i hasn't reached length of input string
     for i in range(len(x)):
+        #if string at position of counting variable i is a Vowel (==True)
+        #As checkVowel returns boolean 
+        if checkVowel(x[i]):
+            counter+=1
         
-        #check whether we have a vowel on the ith element of our string x
-        if isVowel(x[i]):
-            count+=1
-    print("Found "+ str(count) +" vowels")
+    print("Found " +str(counter) +" vowels")
     end=time.time()
     print("This took: "+str( start-end))
         
 
 def main():
-    sol1(x)
-    sol2(x)
+    sol1(x) #my_Version, working, but slow
+    #sol2(x)
     #sol3(x)
-    sol4(x)
+    sol4(x)#Online Version, very lean 
 
 if __name__ =="__main__":
     main()
 
-
-#for word Pseudopseudohypoparathyroidism
-#This execution took :0.0015714168548583984
-
-#for 100 words:
-#Found 
-#This execution took :0.01225900650024414
-
-#for 150 words
-#found 303 vowels
-#This execution took :0.017862558364868164
