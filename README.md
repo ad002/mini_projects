@@ -2,6 +2,9 @@
 
 As I'm starting getting to know Python a bit better I'll be solving some mini tasks. Inspiration taken from this page: https://knightlab.northwestern.edu/2014/06/05/five-mini-programming-projects-for-the-python-beginner/
 
+Since many aspects needed for solving these puzzles in an elegant and time efficient way
+some of the files consist of documentation/learning examples with a lot of text only.   
+
 [DONE] #1 Dice Rolling Simulator
 [DONE] #2 Guess the Number
 [DONE]  #3 Mad Lips Generator -> What?! 
