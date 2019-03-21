@@ -7,12 +7,16 @@ for x in range(0,10):
 list=['a','b','c','d','e','f','g','h']
 
 #for x in list:
-#    print(list[x]) #TypeError: list indices must be integers or slices, not str
+#    print(list[x]) #TypeError: list indices must be integers or slices, 
+#    not str
 
 for i in list:
     print(i) #this is the way to go 
     #strange, because this prints the x[i] element so there seems to 
     #be a connection made between the datatype and the counter variable
+    #See documentation below. While going through the loop every item 
+    #of list is assigned to i one by one so we while i is iterated 
+    #we retrieve each element of list 
     
 
 #<alternative>
