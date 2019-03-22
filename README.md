@@ -41,6 +41,19 @@ https://rosettacode.org/wiki/Category:Programming_Tasks
 # Project Euler, more Math oriented tasks: 
 https://projecteuler.net/about
 
+[DONE] Multiples of 3 and 5 
+
+[DONE] Even Fibinacci numbers
+
+Largest prime factor
+
+Largest palindrome product
+
+Smallest multiple 
+
+Sum square difference
+
+10001st prime
 
 # A lot of Simple to Complex Programms, listed below here:
 https://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
