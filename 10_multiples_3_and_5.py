@@ -20,7 +20,8 @@ for i in range(len(x)):
         #If multiple, put on our multiple list
         y.append(i)
         
-        
+
 #sum(y) adds up all elements of list y, ergo all multiples 
 print("The total sum of all multiples of 3 and 5 below 1000 is {}".format(sum(y)))
+
 
