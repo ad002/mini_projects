@@ -28,8 +28,8 @@ https://www.youtube.com/watch?time_continue=3642&v=Wm6CUkswsNw
 
 # More projects: 
 https://www.daniweb.com/programming/software-development/threads/131973/5-crucial-projects-for-beginners#
-1. Guess the number [DONE]
-2. Sentence generator [DONE] (MadLips)
+[DONE] 1. Guess the number 
+[DONE] 2. Sentence generator (MadLips)
 3. Area Calculator -> Math
 4. Address book
 5. Text Game
@@ -45,7 +45,7 @@ https://projecteuler.net/about
 
 [DONE] Even Fibinacci numbers
 
-Largest prime factor
+[DONE ] Largest prime factor
 
 Largest palindrome product
 
