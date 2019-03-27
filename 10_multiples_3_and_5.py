@@ -21,6 +21,7 @@ for i in range(len(x)):
         y.append(i)
         
 
+print("The multiples of 3 and 5 below 1000 are: ", y)
 #sum(y) adds up all elements of list y, ergo all multiples 
 print("The total sum of all multiples of 3 and 5 below 1000 is {}".format(sum(y)))
 
